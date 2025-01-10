@@ -218,40 +218,6 @@ Example response when exceeding rate limits:
   "error": "Rate limit exceeded. Try again later."
 }
 ```
-
----
-
-## **Contributing**
-
-We welcome contributions! If you'd like to contribute to this project, follow these steps:
-
-1. **Fork the repository** to your own GitHub account.
-2. **Clone** the repository locally:
-   ```bash
-   git clone https://github.com/jimmyu2foru18/RESTfulAPI-Explained.git
-   ```
-3. **Create a new branch** for your feature or fix:
-   ```bash
-   git checkout -b feature/my-feature
-   ```
-4. **Make your changes** and commit them:
-   ```bash
-   git commit -m "Add my feature"
-   ```
-5. **Push your changes** to your fork:
-   ```bash
-   git push origin feature/my-feature
-   ```
-6. **Submit a pull request** with a description of your changes.
-
-Please ensure your code follows the repository's coding standards, and include tests where applicable.
-
----
-
-## **License**
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the project as long as you include the original license.
-
 ---
 
 ## **Images**
