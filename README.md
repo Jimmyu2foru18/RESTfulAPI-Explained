@@ -163,7 +163,8 @@ The advanced version of the API (`RESTfulAPI2.js`) includes additional functiona
 - **Filtering**: Filter items by specific fields. Example: `/items?name=Item1`
 - **Sorting**: Sort results. Example: `/items?sort=asc`
 - **Pagination**: Retrieve data in chunks. Example: `/items?page=1&limit=10`
-- **Health Check Endpoint**: Monitor the API's status at `/health`. Example:
+- **Health Check Endpoint**: Monitor the API's status at `/health`. 
+Example:
   ```bash
   curl http://localhost:3000/health
   ```
@@ -231,6 +232,6 @@ Here are some visual aids to help you better understand the RESTful API principl
 - ![Setup operations simplified](./Setup%20operations%20simplified.png)
 - ![Setup operations](./Setup%20operations.png)
 
-These images provide a graphical representation of the setup, operations, and structure of the API, aiding in the conceptual understanding of how REST APIs function and are integrated.
+These images show representation of the setup, operations, and structure of the API, aiding in understanding of how REST APIs function and work.
 
 ---
