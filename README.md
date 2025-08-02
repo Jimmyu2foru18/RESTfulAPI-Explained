@@ -1,7 +1,8 @@
 
 # RESTfulAPI Explained
 
-Welcome to the **RESTfulAPI Explained** repository! This project is a comprehensive guide to learning about **REST APIs** and their integration. 
+Welcome to the **RESTfulAPI Explained**! This project is a guide to learning about **REST APIs** and their integration based on 
+my and textbook/internet interpretation. 
 The repository includes a paper and visual aids to deepen your understanding of RESTful principles and how to implement them. 
 The project demonstrates both basic and advanced RESTful API implementations using **Express.js**.
 
